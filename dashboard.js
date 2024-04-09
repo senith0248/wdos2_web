@@ -18,6 +18,12 @@
             const jsonData = document.getElementById('jsonEditor').value;
         
             localStorage.setItem("indexData", JSON.stringify(jsonData));
+          localStorage.setItem("index2Data", JSON.stringify(jsonData));
+            localStorage.setItem("index3Data", JSON.stringify(jsonData));
+            localStorage.setItem("index4Data", JSON.stringify(jsonData));
+            localStorage.setItem("index5Data", JSON.stringify(jsonData));
+            localStorage.setItem("index6Data", JSON.stringify(jsonData));
+            localStorage.setItem("index7Data", JSON.stringify(jsonData));
            
             closeModal();
         }
