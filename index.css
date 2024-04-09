@@ -1,0 +1,796 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+
+header {
+  background-color: transparent;
+  color: white;
+  text-align: center;
+  padding: 1em;
+}
+
+.navbar {
+  display: flex;
+  justify-content: right;
+  background-color:white;
+  padding: 0.5em;
+  overflow: hidden;
+}
+
+.navbar a {
+  color: #097969;
+  text-decoration: none;
+  margin: 0 1em;
+  font-weight: bold;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 18px;
+  transition: color 1s ease, background-color 1s ease;
+}
+ .navbar a:hover{
+  
+  color: #76D7C4;
+ }
+ .image-container {
+  height: 100vh; 
+    background-image: url('https://zoobarcelona.cat/sites/default/files/animal/2016-12/Panthera%20pardus2.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    text-align: center;
+    max-width: 100%;
+    min-width: 60%;
+} 
+
+
+.overlay-text {
+  position: absolute;
+  top: 70%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+  text-align: left;
+  color: #fff;
+}
+ .overlay-text h1{
+   font-size: 50px;
+   font-family: monospace;
+
+ }
+ .overlay-text p{
+   font-size: 20px;
+   font-family: monospace;
+ }
+
+
+.overlay-text button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  font-family: monospace;
+} 
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 0.5em 0;
+  position: static;
+  bottom: 0;
+  width: 100%;
+  
+}
+.full-width-section {
+  width: 100%;
+  background-color: white; 
+  flex: 1;
+}
+.content-header {
+  border: none;
+  text-align: justify;
+  size: 100px;
+  background-color: white;
+  right: auto;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   padding-left: 20%;
+   padding-top: 2%;
+   font-size: 300%;
+ 
+} 
+.image-content {
+  float: right;
+  width: 40%; 
+
+}
+
+.image-content img {
+  width: 80%;
+  height: auto;
+  display: block; 
+  padding-right: 2.5%;
+  padding-left: 10%;
+  padding-bottom: 10px;
+   
+}
+.image-content:hover img {
+  transform: scale(1.1);
+  transition: transform 0.3s ease;
+
+}
+.content{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:23px;
+  padding-left: 5%;
+  padding-right: 10%;
+  padding-top: 1%;
+  word-spacing: 1.5px;
+}
+.width-section{
+  width: 100%;
+  background-color: #f0f0f0; 
+  flex: 1;
+}
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.image-container-2 {
+  height: 100vh; 
+    background-image: url('https://images.unsplash.com/photo-1558668191-13737cb53fb5?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8c3JpJTIwbGFua2FuJTIwZWxlcGhhbnR8ZW58MHx8MHx8fDA%3D');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff; 
+    text-align: center;
+    max-width: 100%;
+    min-width: 60%;
+ } 
+ .overlay-text-2 {
+   position: absolute;
+   top: 80%;
+   left: 35%;
+   transform: translate(-50%, -50%);
+   text-align: left;
+   color: #fff;
+ }
+ .overlay-text-2 h1{
+   font-size: 50px;
+   font-family: 'Source Sans Pro', sans-serif;
+ 
+ }
+ .overlay-text-2 p{
+   font-size: 20px;
+   font-family: 'Source Sans Pro', sans-serif;
+ }
+ .full-width-section-2 {
+   width: 100%;
+   background-color: white; 
+   flex: 1;
+ }
+ .content-header-2 {
+   border: none;
+   text-align: justify;
+   size: 100px;
+   background-color: white;
+   right: auto;
+   font-family: 'Source Sans Pro', sans-serif;
+    padding-left: 20%;
+    padding-top: 0.5%;
+    font-size: xx-large;
+  
+ } 
+ .content-2{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:23px;
+  padding-left: 20%;
+  padding-top: 10px;
+  padding-right: 20%;
+  word-spacing: 1.5px;
+ }
+ .dropdown {
+   float: left;
+   overflow: hidden;
+ }
+ 
+ .dropdown .dropdown-content {
+   display: none;
+   position: absolute;
+   background-color: #f9f9f9;
+   min-width: 160px;
+   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+   z-index: 1;
+ }
+ 
+ .dropdown:hover .dropdown-content {
+   display: block;
+ }
+ .image-container-3 {
+  height: 90vh; 
+    background-image: url('https://www.kevmrc.com/wp-content/uploads/2022/12/sri-lankan-axis-deer-is-among-the-endemic-animals-in-sri-lanka.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff; 
+    text-align: center;
+    max-width: 100%;
+    min-width: 60%;
+ } 
+ .overlay-text-3 {
+   position: absolute;
+   top: 75%;
+   left: 35%;
+   transform: translate(-50%, -50%);
+   text-align: left;
+   color: #fff;
+ }
+ .overlay-text-3 h1{
+  font-size: 70px;
+  font-family: monospace;
+  
+  
+
+}
+.full-width-section-3 {
+  width: 100%;
+  background-color: white; 
+  flex: 1;
+}
+.content-header-3 {
+  border: none;
+  text-align: left;
+  size: 100px;
+  background-color: white;
+  right: auto;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   padding-left: 20%;
+   padding-top: 0.5%;
+   font-size: 300%;
+   font-style: calc(10);
+  
+ 
+} 
+.content-3{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:20px;
+  padding-left: 20%;
+  padding-top: 10px;
+  padding-right: 20%;
+  word-spacing: 1.5px;
+}
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+  margin: 20px;
+}
+
+.gallery-item {
+  flex: 0 0 30%; 
+  margin: 10px;
+  overflow: hidden;
+}
+
+.gallery-item img {
+  width: 100%;
+  height: 400px;
+  display: block;
+}
+.gallery-content-header{
+  border: none;
+  text-align: justify;
+  size: 100px;
+  
+  right: auto;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   padding-left: 35%;
+   padding-top: 0.5%;
+   font-size: 300%;
+   color: #f0f0f0;
+  
+
+
+}
+ .gallery-full-width-section{
+  width: 100%;
+  background-color:#008000; 
+  flex: 1;
+  height: 100%;
+ }
+  .image-container-4{
+
+    height: 90vh; 
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5a3bb03b4c326d76de73ddaa/d0a7ce12-3b90-4aba-856e-d275ebf9a3c6/The_Common_Wanderer_-0508.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff; 
+    text-align: center;
+    max-width: 100%;
+    min-width: 60%;
+  }
+  .map{
+    height: 300px;
+    width: 80%;
+    box-sizing: border-box;
+    margin-left: 190px;
+  }
+   .overlay-text-4{
+    position: absolute;
+     margin-right: 45%;
+     margin-top: 25%;
+     text-align: left;
+   color: #fff;
+    
+
+   }
+    .overlay-text-4 h1{
+      font-size: 70px;
+      font-family: monospace;
+    }
+    .head {
+      font-family: 'Source Sans Pro', sans-serif;
+      position: relative;
+      text-align: center;
+      color: rgb(18, 189, 18);
+      font-size: 3rem;
+    }
+    .about1 {
+      font-family: 'Source Sans Pro', sans-serif;
+      font-size: larger;
+      text-align: justify;
+      margin: auto;
+      width: 80%;
+      padding: 10px;
+      color: rgb(30, 47, 35);
+      font-size: 1.4rem;
+    }
+    .image-container-5{
+      height: 90vh; 
+      background-image: url(https://images.squarespace-cdn.com/content/v1/6090e44108fff025fb6cf10a/1620832473888-J37UOBNLQPQKNML49P58/oWcSz2PQ.jpeg);
+      background-size: cover;
+      background-position: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: #fff; 
+      text-align: center;
+      max-width: 100%;
+      min-width: 60%;
+
+    }
+    .image-container-6{
+      height: 90vh; 
+      background-image: url(https://www.kumananationalpark.com/images/slider/09.jpg);
+      background-size: cover;
+      background-position: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: #fff; 
+      text-align: center;
+      max-width: 100%;
+      min-width: 60%;
+
+    }
+    .card-container {
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
+  }
+  
+  
+  .description-card {
+      position: relative;
+      max-width: 475px;
+      margin: 20px;
+      overflow: hidden;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      
+      transition: background-color 0.3s ease;
+      
+    
+  }
+  .description-card:hover {
+    background-color: #90EE90; 
+}
+
+  
+  .description-card img {
+      width: 100%;
+      height: auto;
+      display: block;
+  }
+  
+  .card-text {
+      padding: 20px;
+      box-sizing: border-box;
+  }
+  
+  .card-text h2 {
+      margin: 0 0 10px;
+      font-size: 1.5rem;
+  }
+  
+  .card-text p {
+      margin: 0;
+      font-size: 1rem;
+  }
+  .image-container-7{
+    height: 90vh;
+      background-image: url(https://upload.wikimedia.org/wikipedia/commons/3/37/Sri_Lankan_leopard_%28Panthera_pardus_kotiya%29_at_Wilpattu_National_Park.jpg);
+      background-size: cover;
+      background-position: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: #fff; 
+      text-align: center;
+      max-width: 100%;
+      min-width: 60%;
+
+  }
+   .full-width-section-4{
+    width: 100%;
+    background-color: white; 
+    flex: 1;
+    
+   }
+   .image-container-8{
+    height: 90vh;
+    background-image: url(https://leopardtrails.com/wp-content/uploads/2018/11/1DXP0086.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff; 
+    text-align: center;
+    max-width: 100%;
+    min-width: 60%;
+
+   }
+   .overlay-text-5{
+    position: absolute;
+     margin-right: 45%;
+     margin-top: 25%;
+     text-align: left;
+   color: #fff;
+    
+   }
+   .overlay-text-5 h1{
+    font-size: 70px;
+    font-family: 'Source Sans Pro', sans-serif;
+
+   }
+   .overlay-text-5 p{
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+
+   }
+   .full-width-section-5{
+    width: 100%;
+    background-color:white; 
+    flex: 1;
+   }
+   .head2{
+    font-family: 'Source Sans Pro', sans-serif;
+    position: relative;
+    text-align: center;
+    color: black;
+    font-size: 3rem;
+   }
+   .full-width-section-5 h2{
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-left: 10%;
+    font-size: 2rem;
+   }
+   .full-width-section-5 p{
+    font-size: 23px;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-left: 15%;
+    margin-right: 15%;
+   }
+   .image-container-9{
+    height: 90vh;
+    background-image: url(https://miro.medium.com/v2/resize:fit:2000/1*rTsTL0lK5KAN8Nlnhty6Xg.jpeg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff; 
+    text-align: center;
+    max-width: 100%;
+    min-width: 60%;
+
+   }
+   .main-heading {
+    position: relative;
+    justify-content: center;
+    color: #228B22;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 1000;
+    letter-spacing: 5px;
+    font-size: 50px;
+    display: flex;
+    margin-bottom: 50px;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 50px;
+  padding: 20px;
+}
+.grid-item {
+  background-color: aliceblue;
+  padding: 20px;
+  border: 1px solid #b1abab;
+  text-align: left;
+  box-shadow: rgb(0, 0, 0) 0px 8px 24px;
+}
+.title {
+  font-size: 30px;
+  color: black;
+  margin-bottom: 20px;
+  padding: 30px;
+  text-align: center;
+}
+.detail {
+  font-size: 22px;
+  padding: 30px;
+}
+.img1 {
+  margin-top: 30px;
+  width: 30%;
+    height: 50%;
+    float: right;
+}
+.image-card-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.image-card {
+  width: 475px; 
+  margin: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease; 
+  overflow: hidden;
+}
+
+.image-card:hover {
+  background-color: #90EE90;
+}
+.image-card img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.card-content {
+  padding: 20px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+h2 {
+  margin: 0 0 10px;
+  font-size: 1.5rem;
+}
+
+p {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.image-card button {
+  padding: 10px 15px;
+  font-size: 1rem;
+  background-color: rgb(18, 143, 18);
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease; 
+}
+
+.image-card button :hover {
+  background-color: #2980b9; 
+}
+header, footer {
+  
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-image: url('https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/51/3a/2e/birds-at-kumana.jpg?w=1200&h=-1&s=1'); /* Replace with the actual image path */
+  background-size: cover;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 15px;
+  text-align: center;
+}
+
+th {
+  background-color: #333;
+  color: #fff;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+.head3{
+  font-family: 'Source Sans Pro', sans-serif;
+    position: relative;
+    text-align: center;
+    color: white;
+    font-size: 3rem;
+}
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+
+header {
+  background-color: transparent;
+  color: white;
+  text-align: center;
+  padding: 1em;
+}
+
+.navbar {
+  display: flex;
+  justify-content: right;
+  background-color: white;
+  padding: 0.5em;
+  overflow: hidden;
+}
+
+.navbar a {
+  color: #097969;
+  text-decoration: none;
+  margin: 0 1em;
+  font-weight: bold;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 18px;
+  transition: color 1s ease, background-color 1s ease;
+}
+
+.navbar a:hover {
+  color: #76D7C4;
+}
+.head button{
+  padding: 10px 15px;
+    font-size: 1rem;
+    background-color: rgb(18, 143, 18);
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+#subscribeForm {
+  background-color: #fff;
+  padding: 2px; 
+  border-radius: 4px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  width: 150px;
+}
+
+#subscribeForm label {
+  display: block;
+  margin-bottom: 4px;
+}
+
+#subscribeForm input[type="email"] {
+  width: calc(100% - 16px); 
+  padding: 6px; 
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  margin-bottom: 3px; 
+}
+
+#subscribeForm button {
+  width: 100%;
+  padding: 8px;
+  background-color: #15a043;
+  color: #ffffff;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  font-size: 12px;
+}
+
+#subscribeForm button:hover {
+  background-color: green;
+}
+login-btn {
+  padding: 10px 20px;
+  background-color: green;
+  color:#097969;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+  
+}
+
+.login-btn:hover {
+  background-color: lightgreen;
+  border-color: #0056b3;
+}
+
+
+
+@media only screen and (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+  }
+
+  .navbar a {
+    margin: 0.5em 0;
+  }
+
+  .overlay-text {
+    top: 60%; 
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .overlay-text-2 {
+    top: 60%; 
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .overlay-text-3 {
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .overlay-text-4 {
+    margin-right: 20%; 
+    margin-top: 15%;
+  }
+
+  .overlay-text-5 {
+    margin-right: 20%;
+    margin-top: 15%;
+  }
+}

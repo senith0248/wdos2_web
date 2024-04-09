@@ -1,0 +1,37 @@
+{
+    "welcome_sec":{
+        "main_heading": "Explore the Beauty",
+        "paragraph":"Discover amazing wildlife in sri lanka."
+    },
+    "full_width_sec":{
+        "wildlife": "Wildlife of srilanka"
+        
+    },
+     "paragraph":{
+        "paragraph_content": "Nestled in the heart of the Indian Ocean, Sri Lanka stands as a captivating testament to the wonders of biodiversity. This island nation's landscape is a tapestry of diverse ecosystems, ranging from the enchanting depths of lush rainforests to the sun-kissed expanses of dry plains and the rhythmic ebb and flow of coastal areas. It is within this mosaic of environments that Sri Lanka's rich wildlife flourishes, offering a mesmerizing blend of endemic species found nowhere else on Earth, alongside those shared with its neighboring countries. The charismatic Sri Lankan leopard prowls through the dense foliage, while the vibrant purple-faced langur swings gracefully from treetop to treetop. The gentle giants, Sri Lankan elephants, command attention in both the wild and protected reserves. The symphony of avian life echoes in over 430 bird species, some migratory, creating a melody that resonates through national parks like Yala and Sinharaja. As Sri Lanka navigates the delicate balance between conservation and development, its commitment to safeguarding this natural heritage reflects a recognition of the intrinsic value of its wildlife, ensuring that future generations can continue to marvel at the splendor of the island's diverse and captivating fauna."
+    },
+    "card_content":{
+        "card_head": "Diverse ecosystem of sri lanka",
+        "card_paragraph": "Sri Lanka boasts a remarkable and diverse ecosystem, encompassing lush rainforests, arid plains, coastal areas, and highland regions. This tropical island in the Indian Ocean is renowned for its rich biodiversity, housing a wide array of flora and fauna unique to its various ecosystems. From the iconic elephants of Udawalawe National Park to the endemic species thriving in the Sinharaja Rainforest, Sri Lanka's diverse landscapes provide a haven for nature enthusiasts and wildlife lovers alike. The country's commitment to conservation ensures the preservation of its natural treasures, contributing to the extraordinary tapestry of life that defines Sri Lanka's ecosystem.",
+        "paragraph_head": "conservation efforts"
+    },
+    "card_content2":{
+         "card_head2": "Avian wonders of sri lanka",
+        "card_paragraph_2":" Sri Lanka is a haven for bird enthusiasts, offering a spectacular array of avian wonders. Among these treasures is the endemic Sri Lanka Blue Magpie, showcasing an exquisite blend of blue and chestnut hues in the central hills. The Sri Lanka Junglefowl, with its vibrant red, orange, and blue plumage, proudly serves as the national bird and is a common sight in forested areas. Adding to the avian marvels is the Yellow-fronted Barbet, characterized by its yellow forehead and green body, while the Crimson-fronted Barbet, adorned with a crimson-red forehead and throat, graces the wet zones of the island. These feathered wonders contribute to the rich biodiversity that makes birdwatching in Sri Lanka an unforgettable experience",
+        "paragraph_head2":"bird conservation efforts"
+    },
+    "card_content3":{
+        "card_head3":"Marine marvels of sri lanka",
+        "card_paragraph_3": "Sri Lanka's marine marvels extend beyond its picturesque shores, revealing a diverse and vibrant underwater world. The surrounding Indian Ocean embraces this island nation, offering a playground for marine life enthusiasts. From colorful coral reefs teeming with a kaleidoscope of fish to the majestic presence of marine mammals like dolphins and whales, Sri Lanka's maritime realm captivates visitors. Pristine beaches provide nesting grounds for sea turtles, contributing to the conservation of these endangered species. With a backdrop of crystal-clear waters and a rich biodiversity of marine flora and fauna, Sri Lanka's coastal areas beckon those seeking to explore and appreciate the wonders beneath the waves.bird conservation efforts",
+        "paragraph_head3" : "bird conservation efforts"
+
+    },
+    "card_content4":{
+        "card_head4": "Yala national park"
+        
+    },
+    "card_content5":{
+        "card_head5": "Wilpattu national park"
+    }
+    
+}

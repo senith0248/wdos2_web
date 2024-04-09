@@ -1,0 +1,30 @@
+{
+    "overlay":{
+        "head":"Explore the Beauty of Yala",
+        "content": "Discover amazing wildlife in Yala."
+    },
+    "yala":{
+        "yala_head": "About Yala national park",
+        "yala_paragraph": "Yala National Park, situated in the southeastern region of Sri Lanka, is one of the island's most renowned and expansive wildlife sanctuaries. Established in 1938, the park spans over 979 square kilometers, making it the second-largest national park in the country. Its diverse ecosystems include dense jungles, open grasslands, lagoons, and coastal areas, contributing to its rich biodiversity. Yala is celebrated for its impressive array of flora and fauna, offering visitors a captivating experience amidst the natural wonders of Sri Lanka.At the heart of Yala's appeal is its thriving population of wildlife. The park is particularly famous for its high density of leopards, making it one of the best places in the world to spot these elusive big cats. Yala is also home to a variety of other mammals, including elephants, sloth bears, spotted deer, wild boars, and numerous species of monkeys. The diverse habitats within the park create a favorable environment for such a wide range of wildlife, making each safari excursion a unique and exciting adventure.",
+        "yala_paragraph2": "Yala National Park is a birdwatcher's paradise, with over 200 species of birds recorded. The park's wetlands and water bodies attract a plethora of birdlife, including endemic and migratory species. Bird enthusiasts can spot colorful kingfishers, majestic eagles, and the iconic painted stork, among many others. The symphony of bird calls adds to the enchanting ambiance of Yala, creating an immersive experience for nature lovers.Beyond its natural beauty, Yala has historical significance, with ancient ruins and archaeological sites scattered across the park. The iconic Sithulpawwa Rock Temple, nestled amidst the wilderness, provides a glimpse into the region's cultural heritage. Visitors can explore these ancient remnants, adding a cultural dimension to their wildlife safari.",
+        "yala-paragraph3": "Conservation efforts at Yala National Park are crucial for preserving its delicate ecosystems. Sustainable tourism practices are encouraged to minimize the impact on the environment and maintain the park's ecological balance. Yala stands as a testament to Sri Lanka's commitment to wildlife conservation, offering a sanctuary for both nature enthusiasts and the diverse flora and fauna that call it home."
+    },
+    "yala_safari" :{
+        "head": "yala Safari Game Drives"
+
+    },
+    "yala_safari1":{
+        "yala_safari1_head": "Yala National Park Morning Safari Game Drive",
+        "yala_safari1_paragraph": "6AM to 10AM"
+    },
+    "yala_safari2":{
+        "yala-safari2_head": "Yala National Park Afternoon Safari Game Drive",
+        "yala_safari2_paragraph": "2PM to 6PM"
+    },
+    "yala_safari3":{
+        "yala-safari3_head": "Yala National Park Full Day Safari Game Drive",
+        "yala_safari3_head": "6AM to 6PM"
+    }
+
+    
+}

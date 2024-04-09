@@ -1,0 +1,38 @@
+{
+    "overlay":{
+        "head": "Sri lankan leopard"
+    },
+    "section":{
+        "section_head":"Venues where leopards can be found"
+    },
+    "Card":{
+        "card_head":"Yala National Park"
+    },
+    "card_2":{
+        "card_2_head":"horton plains park"
+    },
+    "card_3":{
+        "card_3_head": "Kumana national bird park"
+    },
+    "overlay_2":{
+        "overlay_2_head": "Did you KNOW?",
+        "fact":"Sri Lankan leopards are primarily nocturnal, hunting at night."
+    },
+    "section_2": {
+        "head_1": "Threats to sri lankan leopard",
+        "head_2" : "1)Habitat Loss and Fragmentation",
+        "context": "the Sri Lankan leopard faces a diminishing and fragmented habitat due to the relentless pace of rapid urbanization, expansive agriculture, and ambitious infrastructure development. As cities expand and agricultural activities intensify, the once-pristine wilderness is transformed, leaving leopards with reduced and disrupted living spaces. Agriculture contributes to habitat loss, disrupting prey availability and increasing human-wildlife conflicts.Concurrently, infrastructure development, including roads, further fragments habitats, isolating leopard populations. Urgent conservation efforts are crucial to address these challenges, striking a balance between development and biodiversity preservation to ensure the continued survival of the Sri Lankan leopard in its natural environment.",
+        "bold" : "consequnces",
+        "context_2": "- Population Decline: The reduction and fragmentation of habitats often lead to a decline in the overall leopard population. The isolation of groups and limited access to suitable territories can result in decreased breeding success and genetic diversity.",
+        "bold_1": "solution",
+        "context_3": "- Protected Areas and Corridor Development: Establish and expand protected areas, wildlife reserves, and ecological corridors to safeguard critical leopard habitats. These designated zones facilitate the movement of leopards between fragmented areas, promoting genetic diversity and overall population health.",
+        "context_4": "Land-Use Planning and Zoning: Implement and enforce effective land-use planning and zoning regulations to designate areas for conservation, agriculture, and urban development. This ensures that crucial wildlife habitats are preserved, minimizing conflicts between human activities and leopard territories.",
+        "head_3": "2)Decline in Prey Species",
+        "context_5":"The decline in prey species, resulting from hunting and habitat loss, poses a significant threat to the Sri Lankan leopard population. Human-induced activities, such as deforestation and urbanization, disrupt the balance between predators and their prey, diminishing the traditional territories and resources of herbivores. Concurrently, hunting practices further deplete prey populations, leading to heightened competition among leopards for limited food resources. This intensified competition adversely affects the overall health and survival of the leopard population, increasing stress, malnutrition, and susceptibility to diseases. Effective conservation strategies must address habitat restoration, prey protection, and sustainable land-use practices to ensure the preservation of a balanced ecosystem and the well-being of the Sri Lankan leopard.",
+        "bold_2": "consequnces",
+        "paragraph": "- Ecosystem Imbalance: The decline in prey species disrupts the natural balance within the ecosystem. Predators play a crucial role in regulating prey populations, and their absence or reduced numbers can trigger imbalances, affecting vegetation, herbivore dynamics, and other interconnected species.",
+        "bold_3": "solution",
+        "paragraph_2":  " - Wildlife Corridor Development: Establish and maintain wildlife corridors to connect fragmented habitats. These corridors facilitate the movement of prey species, enabling them to access essential resources and promoting genetic diversity within leopard populations.",
+        "paragraph_3" : "Anti-Poaching Measures: Strengthen anti-poaching efforts to combat illegal hunting of prey species. Enforce strict penalties for poaching activities and implement surveillance and monitoring systems to deter and detect illegal wildlife activities."
+    }
+}

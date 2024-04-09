@@ -1,0 +1,35 @@
+{
+    "overlay":{
+        "overlay_head": "DID YOU KNOW?",
+        "overlay_cont": "The Sri Lankan Elephant (Elephas maximus maximus) is the largest of the three subspecies of Asian elephants. It is a cultural icon in Sri Lanka and can be spotted in various national parks."
+    },
+    "content":{
+        "content_head": "Introduction"
+
+    },
+    "content2":{
+        "wildlife": "The Department of Wildlife Conservation has been entrusted with the responsibility of preserving eco system endowed with various plants and animal species which has inherited the country with enormous bio-diversity. The main function of the Department of Wildlife Conservation established in 1949 is the conservation of wildlife resources in Sri Lanka.",
+        "information": "The sources of water feeding all the main rivers in Sri Lanka and catchment areas of 40 major reservoirs providing water for agriculture and hydro-power generation are protected within this wildlife reservation network which exceed 13% of the total land area of the island. The responsibility of managing this wildlife reservation network is solely falling upon the Department of Wildlife Conservation. This network consists of reservations declared under various reservation levels."
+    },
+    "gallery_content":{
+        "gallery_content_head": "Protected areas"
+    },
+    "gallery_item":{
+        "gallery_item_head":"Sinharaja forest"
+    },
+    "gallery_item2":{
+        "gallery_item_head2":"Gal oya national park"
+    },
+    "gallery_item3":{
+        "gallery_item_head3":"Bundala national park"
+    },
+    "gallery_item4":{
+        "gallery_item_head4":"Kumana national bird park"
+    },
+    "gallery_item5":{
+        "gallery_item_head5":"Horton plains national park"
+    },
+    "gallery_item6":{
+        "gallery_item_head6":"Lahugala Kitulana National Park"
+    }
+}

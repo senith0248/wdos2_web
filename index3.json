@@ -1,0 +1,28 @@
+{
+    "overlay":{
+        "overlay_head":"Explore the Beauty of willpattu",
+        "overlay_paragraph": "Discover amazing wildlife in willpattu."
+
+    },
+     "willpattu":{
+        "willpattu_head": "About Wilpattu national park",
+        "paragraph": "Wilpattu National Park, located on the northwest coast of Sri Lanka, stands as a testament to the island's natural splendor. Embracing a diverse range of ecosystems, including dense jungles, sprawling grasslands, and picturesque natural lakes known as villus, the park boasts a rich tapestry of biodiversity. One of its most renowned inhabitants is the elusive Sri Lankan leopard, making Wilpattu a premier destination for wildlife enthusiasts. Beyond leopards, the park is home to a variety of fauna, including elephants, sloth bears, water buffaloes, and a plethora of bird species. The park's landscapes, characterized by historical ruins and sacred sites, add a cultural layer to its natural allure. Despite its conservation efforts, challenges such as poaching persist, highlighting the delicate balance between preservation and the threats facing this remarkable sanctuary. Guided safari tours provide an opportunity for visitors to witness firsthand the wonders of Wilpattu National Park, an emblem of Sri Lanka's commitment to protecting its unique natural heritage.",
+        "willpattu_paragraph2": "As the largest national park in Sri Lanka, Wilpattu spans an expansive area, providing a sanctuary for a diverse range of flora and fauna. The park's sprawling landscapes are adorned with ancient trees and vibrant vegetation, creating a picturesque setting for the resident wildlife. The villus, natural lakes scattered throughout the park, serve as vital watering holes and add a scenic charm to the surroundings. The park's significance extends beyond its role as a wildlife haven; it holds historical and cultural importance. Scattered within its boundaries are ancient ruins dating back to a bygone era, offering glimpses into the region's rich heritage. These historical remnants, including ancient stupas and ruins of settlements, coexist harmoniously with the natural environment, showcasing the interconnectedness of culture and nature.",
+        "willpattu_paragraph3": "Wilpattu National Park's commitment to conservation is evident in its initiatives to protect endangered species and preserve the delicate ecosystems. Visitors can witness not only the grandeur of the wildlife but also actively participate in the park's conservation ethos. Educational programs and guided tours emphasize the importance of responsible tourism and the role each visitor plays in maintaining the park's ecological balance. Moreover, Wilpattu provides a unique opportunity for stargazing amidst its tranquil surroundings, offering a celestial spectacle that complements the terrestrial wonders. The park's diverse attractions make it a holistic destination, appealing to nature lovers, history enthusiasts, and those seeking a profound connection with Sri Lanka's natural and cultural legacy. Wilpattu National Park, with its multifaceted charm, stands as an irreplaceable gem in the country's conservation and tourism efforts."
+     },
+      "willpattu_safari":{
+          "willpattu_safari_head":"Wilpattu Safari Game Drives"
+      },
+      "willpattu_safari1": {
+        "heading": "Wilpattu National Park Morning Safari Game Drive",
+        "content":"6AM to 10AM"
+      },
+      "willpattu_safari2":{
+        "heading2":"Wilpattu National Park Afternoon Safari Game Drive",
+        "content2":"2PM to 6PM"
+      },
+      "willpattu_safari3":{
+        "heading3":"Wilpattu National Park Full Day Safari Game Drive",
+        "content3": "6AM to 6PM"
+      }
+}
